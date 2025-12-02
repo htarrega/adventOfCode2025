@@ -27,6 +27,7 @@ clang++ -std=c++20 <sourceCodeName>.cpp -o <executableName>
 | Day | Name           | Stars |
 | --- | -------------- | ----- |
 | 01  |  Secret Entrance     |⭐⭐|
+| 02  |  Gift Shop     |⭐⭐|
 
 
 ## Drawn image of this year
