@@ -2,6 +2,7 @@
 
 This repository is to store all the solved problems of the [Advent of Code 2025](https://adventofcode.com/2025). This year I'm going to solve the odd problems using Python and the even ones using C++. 
 
+This year the creator has reduced the number of problems to 12, so I will be solving 12 instead of 24 problems.
 
 ## Usage
 
