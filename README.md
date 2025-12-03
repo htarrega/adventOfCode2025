@@ -29,7 +29,7 @@ clang++ -std=c++20 <sourceCodeName>.cpp -o <executableName>
 | --- | -------------- | ----- |
 | 01  |  Secret Entrance     |⭐⭐|
 | 02  |  Gift Shop     |⭐⭐|
-
+| 03  |  Lobby     |⭐⭐|
 
 ## Drawn image of this year
 TODO
