@@ -33,6 +33,7 @@ clang++ -std=c++20 <sourceCodeName>.cpp -o <executableName>
 | 04  |  Printing Department     |⭐⭐|
 | 05  |  Cafeteria     |⭐⭐|
 | 06  |  Trash Compactor   |⭐⭐|
+| 07  |  Laboratories |⭐⭐|
 
 ## Drawn image of this year
 TODO
