@@ -34,6 +34,7 @@ clang++ -std=c++20 <sourceCodeName>.cpp -o <executableName>
 | 05  |  Cafeteria     |⭐⭐|
 | 06  |  Trash Compactor   |⭐⭐|
 | 07  |  Laboratories |⭐⭐|
+| 08  | Playground |⭐⭐|
 
 ## Drawn image of this year
 TODO
