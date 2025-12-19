@@ -35,6 +35,7 @@ clang++ -std=c++20 <sourceCodeName>.cpp -o <executableName>
 | 06  |  Trash Compactor   |⭐⭐|
 | 07  |  Laboratories |⭐⭐|
 | 08  | Playground |⭐⭐|
+| 09  | Movie Theater |⭐⭐|
 
 ## Drawn image of this year
 TODO
