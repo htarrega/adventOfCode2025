@@ -36,8 +36,7 @@ clang++ -std=c++20 <sourceCodeName>.cpp -o <executableName>
 | 07  |  Laboratories |⭐⭐|
 | 08  | Playground |⭐⭐|
 | 09  | Movie Theater |⭐⭐|
+| 10  | Factory |⭐⭐|
 
-## Drawn image of this year
-TODO
 
 
